@@ -1,7 +1,5 @@
 # AI Software Engineer Workspace
 
-A full-stack AI-powered IDE — built to show employers real engineering depth, not just framework familiarity.
-
 **Live demo:** `docker-compose up` and you're running.
 
 ---
